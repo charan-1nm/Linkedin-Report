@@ -1,3 +1,4 @@
+![Black and White Creative Business LinkedIn Post (1)](https://github.com/user-attachments/assets/8f617388-6ed3-436d-b5a0-30fcfce23e9d)
 # Power-BI-PROJECTS
 A repository for all my Power BI projects.
 Here, you can see all the interesting Power BI reports I have worked on. 
